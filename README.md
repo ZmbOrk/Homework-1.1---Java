@@ -11,7 +11,7 @@
 * <[#2](https://github.com/ZmbOrk/Homework-1.1---Java/issues/2)>
 
 В качестве тестовых данных использовались данные:
-* <[Сайт для генерации номеров карт] (https://www.freeformatter.com/credit-card-number-generator-validator.html)>
+* <[Сайт для генерации номеров карт](https://www.freeformatter.com/credit-card-number-generator-validator.html)>
 
 Тестирование производилось в следующем окружении:
 * <Win 10, 64x>
