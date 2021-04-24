@@ -1,4 +1,4 @@
-# Отчёт о тестировании Credit Card Number Validator
+# Отчёт о тестировании приложения Credit Card Number Validator
 
 ## Краткое описание
 
